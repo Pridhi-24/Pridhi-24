@@ -1,5 +1,50 @@
-# Hello, Pridhi here
-**A CSE undergrad at TIET'28 bridging the gap between coding and designing.**
+<div align="center">
+  <h1>Hello, Pridhi here </h1>
+  <p> <b>Blending Tech with Innovation</b></p>
+  <p><i>"Bridging the structural logic of a computer engineer with the creative soul of a designer."</i></p>
+</div>
+
+## 👤 About Me
+
+I'm **Pridhi Thareja**, a Computer Science and Engineering undergrad at **TIET'28**. 
+
+* 🎓 Pursuing my Bachelor of Engineering in CSE at TIET.
+* 👩‍💻 Full-Stack Developer & Freelance Graphic Designer.
+* 💡 Passionate about UI/UX aesthetics, human-centric tech, and social impact.
+
+## 🎯 What I'm Currently Building
+
+* 🤖 **AI & Machine Learning** – Training supervised regression models 
+* 📦 **Full-Stack Platforms** – Scaling community-focused ecosystems 
+* 🌿 **UI/UX Design** - Crafting user-centric interfaces 
+
+
+---
+## 🌟 Featured Projects
+
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📦 <a href="https://github.com/Pridhi-24/skill-barter-box">Skill BarterBox</a></h3>
+      <p>A community-driven platform for real-time, zero-cost skill exchange. Connects mentors and learners without financial barriers. Built with <b>TypeScript</b>.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 <a href="https://github.com/Pridhi-24/animely-ai">Animely AI</a></h3>
+      <p>An intelligent web application leveraging modern AI models and agentic workflows. Built using a robust <b>TypeScript</b> architecture.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💼 <a href="https://github.com/Pridhi-24/My-Portfolio">My Portfolio</a></h3>
+      <p>A modern, highly responsive portfolio showcasing the perfect blend of custom UI/UX design, interactive elements, and frontend engineering.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🍲 <a href="https://github.com/Pridhi-24/Khanna-Khazana">Khanna Khazana</a></h3>
+      <p>A beautifully designed, responsive web application focused on clean content delivery and sleek user interfaces using fundamental web technologies.</p>
+    </td>
+  </tr>
+</table>
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/YhXpmMZP) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pridhi.24) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pridhi-thareja) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pri.thareja24@gmail.com) 
 
